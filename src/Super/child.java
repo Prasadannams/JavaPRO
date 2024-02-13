@@ -4,7 +4,8 @@ public class child extends Base{
 
 	public static void main(String[] args) {
 		
-		child obj=new child();
+		child obj=new child(1);
+		
 
 
 	}

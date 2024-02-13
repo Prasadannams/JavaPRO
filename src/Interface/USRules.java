@@ -16,7 +16,7 @@ public  interface USRules {
 	
 	int ser_charge=10;
 	
-	public void interest();
+	public void  interest();
 	public void Color();
 	void Charges();
 	

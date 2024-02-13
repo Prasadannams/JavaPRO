@@ -14,8 +14,8 @@ public static void main(String[] args) {
 	TB.charges();
 	TB.creditCard();
 	TB.intrest();
-	TB.spl_value=30;
 	
+	System.out.println(TB.spl_value=30);
 
 }
 
